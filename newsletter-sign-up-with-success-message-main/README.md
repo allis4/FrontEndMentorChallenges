@@ -45,7 +45,7 @@ Active state of newsletter
 ### Links
 
 - Solution URL: [Add solution URL here](https://github.com/allis4/FrontEndMentorChallenges/tree/main/qr-code-component-main)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Add live site URL here](https://fem-newsletter-challenge.netlify.app/)
 
 ## My process
 
