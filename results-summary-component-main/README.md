@@ -44,8 +44,8 @@ Mobile design of result
 
 ### Links
 
-- Solution URL: [Add solution URL here]()
-- Live Site URL: [Add live site URL here]()
+- Solution URL: [Add solution URL here](https://github.com/allis4/FrontEndMentorChallenges/tree/allis4-patch-1/results-summary-component-main)
+- Live Site URL: [Add live site URL here](resultsummaryfem.netlify.app)
 
 ## My process
 
